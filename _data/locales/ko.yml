@@ -3,8 +3,8 @@
 # ----- Commons label -----
 
 layout:
-  post: Post
-  category: Category
+  post: 홈
+  category: 카테고리
   tag: Tag
 
 # The tabs of sidebar
