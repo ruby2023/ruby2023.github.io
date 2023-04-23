@@ -25,7 +25,7 @@ tagline: 확률/통계/ 머신러닝 / Computer Vision / Android App
 description: jeong won Blog
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://ruby2023.github.io"
+url:"https://ruby2023.github.io"
 
 github:
   username: ruby2023
